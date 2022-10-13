@@ -1,2 +1,2 @@
-let = "hello world"
-console.log(let)
+let world = "hello world"
+console.log(world)
